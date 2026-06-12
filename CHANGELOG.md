@@ -2105,16 +2105,16 @@ First public release.
 - Distributed via GitHub Packages as a scoped package. See [README.md](README.md)
   for installation instructions.
 
-[Unreleased]: https://github.com/BleizLabs/bleizlabs-ui/compare/v0.16.0...HEAD
-[0.16.0]: https://github.com/BleizLabs/bleizlabs-ui/releases/tag/v0.16.0
-[0.15.0]: https://github.com/BleizLabs/bleizlabs-ui/releases/tag/v0.15.0
-[0.14.0]: https://github.com/BleizLabs/bleizlabs-ui/releases/tag/v0.14.0
-[0.13.1]: https://github.com/BleizLabs/bleizlabs-ui/releases/tag/v0.13.1
-[0.13.0]: https://github.com/BleizLabs/bleizlabs-ui/releases/tag/v0.13.0
-[0.12.0]: https://github.com/BleizLabs/bleizlabs-ui/releases/tag/v0.12.0
-[0.11.3]: https://github.com/BleizLabs/bleizlabs-ui/releases/tag/v0.11.3
-[0.11.2]: https://github.com/BleizLabs/bleizlabs-ui/releases/tag/v0.11.2
-[0.11.1]: https://github.com/BleizLabs/bleizlabs-ui/releases/tag/v0.11.1
-[0.11.0]: https://github.com/BleizLabs/bleizlabs-ui/releases/tag/v0.11.0
-[0.10.2]: https://github.com/BleizLabs/bleizlabs-ui/releases/tag/v0.10.2
-[0.10.1]: https://github.com/BleizLabs/bleizlabs-ui/releases/tag/v0.10.1
+[Unreleased]: https://github.com/BleizLabs/ui/compare/v0.16.0...HEAD
+[0.16.0]: https://github.com/BleizLabs/ui/releases/tag/v0.16.0
+[0.15.0]: https://github.com/BleizLabs/ui/releases/tag/v0.15.0
+[0.14.0]: https://github.com/BleizLabs/ui/releases/tag/v0.14.0
+[0.13.1]: https://github.com/BleizLabs/ui/releases/tag/v0.13.1
+[0.13.0]: https://github.com/BleizLabs/ui/releases/tag/v0.13.0
+[0.12.0]: https://github.com/BleizLabs/ui/releases/tag/v0.12.0
+[0.11.3]: https://github.com/BleizLabs/ui/releases/tag/v0.11.3
+[0.11.2]: https://github.com/BleizLabs/ui/releases/tag/v0.11.2
+[0.11.1]: https://github.com/BleizLabs/ui/releases/tag/v0.11.1
+[0.11.0]: https://github.com/BleizLabs/ui/releases/tag/v0.11.0
+[0.10.2]: https://github.com/BleizLabs/ui/releases/tag/v0.10.2
+[0.10.1]: https://github.com/BleizLabs/ui/releases/tag/v0.10.1

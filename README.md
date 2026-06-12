@@ -242,7 +242,7 @@ Each doc carries a `**Valid for:** @bleizlabs/ui <version>` header injected at p
 Every component has a dedicated demo route. To run locally:
 
 ```bash
-git clone https://github.com/BleizLabs/bleizlabs-ui.git
+git clone https://github.com/BleizLabs/ui.git
 cd bleizlabs-ui/dev
 npm install
 npm run dev
@@ -320,7 +320,7 @@ The library will hit `1.0.0` on an explicit stabilization trigger from maintaine
 - 📓 [CHANGELOG](CHANGELOG.md)
 - 🗺️ [ROADMAP](ROADMAP.md)
 - 🤖 [Agent docs (`AGENTS.md`)](AGENTS.md) · [Deep reference (`docs/AGENT-USAGE.md`)](docs/AGENT-USAGE.md)
-- 🐛 [Issues](https://github.com/BleizLabs/bleizlabs-ui/issues)
+- 🐛 [Issues](https://github.com/BleizLabs/ui/issues)
 - 🔒 [Security policy](SECURITY.md)
 
 ---

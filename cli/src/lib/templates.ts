@@ -322,7 +322,7 @@ Cascades through \`--color-brand-*\` (50-900 scale), \`--radius-*\`, \`--space-*
 - **Project component inventory:** \`docs/component-inventory.md\`
 - **Lib README:** \`node_modules/@bleizlabs/ui/README.md\`
 - **Lib component registry:** \`node_modules/@bleizlabs/ui/COMPONENT_REGISTRY.md\`
-- **GitHub:** https://github.com/BleizLabs/bleizlabs-ui
+- **GitHub:** https://github.com/BleizLabs/ui
 - **CLI commands:** \`npx @bleizlabs/ui --help\`
 
 ## Re-bootstrap / sync after lib upgrade

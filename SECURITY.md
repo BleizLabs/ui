@@ -17,7 +17,7 @@ If you discover a security issue in `@bleizlabs/ui`, please do **not** open a
 public GitHub issue. Instead, use one of the following private channels:
 
 1. **GitHub Security Advisories** — preferred. Open a draft advisory at
-   <https://github.com/BleizLabs/bleizlabs-ui/security/advisories/new>.
+   <https://github.com/BleizLabs/ui/security/advisories/new>.
 2. **Email** — `security@bleizlabs.eu` if GitHub Security Advisories is not
    suitable for your case.
 

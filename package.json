@@ -4,11 +4,11 @@
   "description": "Zero-dependency, fully-styled React component library with seed-based design tokens. 100+ focused components with 100% JSDoc coverage, WAI-ARIA compliant, SCSS Modules, React 19.2 + Next.js 16.2. Ships with `bleizlabs-ui` CLI for project scaffold + agent-friendly docs (`AGENTS.md` + `docs/AGENT-USAGE.md`).",
   "license": "MIT",
   "author": "BleizLabs <hello@bleizlabs.eu>",
-  "homepage": "https://github.com/BleizLabs/bleizlabs-ui#readme",
-  "bugs": "https://github.com/BleizLabs/bleizlabs-ui/issues",
+  "homepage": "https://github.com/BleizLabs/ui#readme",
+  "bugs": "https://github.com/BleizLabs/ui/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BleizLabs/bleizlabs-ui.git"
+    "url": "git+https://github.com/BleizLabs/ui.git"
   },
   "keywords": [
     "react",

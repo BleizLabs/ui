@@ -7,11 +7,11 @@ name: Publish to npm
 on:
   push:
     tags:
-      - 'v*.*.*'
+      - "v*.*.*"
   workflow_dispatch:
     inputs:
       tag:
-        description: 'Existing tag to publish (e.g. v0.1.0)'
+        description: "Existing tag to publish (e.g. v0.1.0)"
         required: true
         type: string
 
@@ -38,8 +38,8 @@ jobs:
     container:
       image: mcr.microsoft.com/playwright:v1.59.1-noble
     permissions:
-      contents: write   # create GitHub Release on publish success
-      id-token: write   # npm provenance (Trusted Publishing)
+      contents: write # create GitHub Release on publish success
+      id-token: write # npm provenance (Trusted Publishing)
 
     steps:
       - name: Checkout
@@ -47,12 +47,15 @@ jobs:
         with:
           ref: ${{ github.event.inputs.tag || github.ref }}
 
+      - name: Trust workspace for git (postpublish revert in container)
+        run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
       - name: Setup Node.js
         uses: actions/setup-node@v5
         with:
           node-version: 24
-          registry-url: 'https://registry.npmjs.org/'
-          scope: '@bleizlabs'
+          registry-url: "https://registry.npmjs.org/"
+          scope: "@bleizlabs"
 
       - name: Verify package version matches tag (fail-fast)
         run: |
